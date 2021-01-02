@@ -46,7 +46,7 @@ insc = C.new() --> 1,2
 ```
 
 Classes can contain an infinite number of nested classes
-```
+```lua
 class "A" do
  class "Inner" do
   i = 1
